@@ -20,6 +20,3 @@ This directory documents every portal registry entry whose model family is quant
 
 “Evidence only” means the portal can show the saved research result, but does not expose that model for new predictions.
 
-## Architecture comparisons
-
-- [Pauli QKSVM vs IQP QKSVM vs MSE HQMLP](pauli_iqp_qksvm_vs_mse_hqmlp_diff.md)
